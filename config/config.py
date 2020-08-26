@@ -2,4 +2,4 @@
 
 
 def config():
-    return {"url": "http://itssit.deppontest.com:8080/its-opt-web/login/index.action", "account": "000000", "pwd": "dpuums."}
+    return {"url": "http:www.jwy.com", "account": "000000", "pwd": "00000000"}
